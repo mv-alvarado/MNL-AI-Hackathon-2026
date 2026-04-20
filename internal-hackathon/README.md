@@ -15,12 +15,6 @@ This folder is organized for easy sharing with participants before and during th
 
 ### `materials/`
 - `AI-FUNDAMENTALS.md` — pre-read learning material
-- `01-hackathon-concept-note.md` — event framing and rationale
-- `02-slide-ready-goals-and-outputs.md` — session goals and expected outputs
-- `03-full-agenda.md` — detailed agenda
-- `04-manager-usecase-demo.md` — demo reference
-- `05-ai-icebreaker-find-the-perfect-meal.md` — warm-up exercise
-
 ### `examples/`
 - `sample-prompts.md` — tested prompt examples that participants can adapt
 
