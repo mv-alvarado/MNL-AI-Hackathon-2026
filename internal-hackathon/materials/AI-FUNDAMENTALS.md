@@ -1305,7 +1305,7 @@ If any answer is "no," reconsider your approach.
 - Procurement/contracting rules
 - Industry-specific regulations
 
-**Lingaro-specific:**
+**Organization-specific:**
 - Use approved LiteLLM access only
 - Follow client engagement rules
 - Respect project confidentiality
